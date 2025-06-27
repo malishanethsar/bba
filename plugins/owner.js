@@ -29,9 +29,9 @@ async (conn, mek, m, { from }) => {
 
         // Send the owner contact message with image and audio
         await conn.sendMessage(from, {
-            image: { url: 'https://i.ibb.co/201XgZ5f/SulaMd.jpg' }, // Image URL from your request
+            image: { url: 'https://i.ibb.co/LX16F0nm/SulaMd.jpg' }, // Image URL from your request
             caption: `
-╭━〔 *🔥KAVIYA MD🔥* 〕━┈⊷
+╭━〔 *🔥𝗠𝐚𝐥𝐢𝐲𝐚 MD🔥* 〕━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• *Here is the owner details*
 ┃◈┃• *Name* - ${ownerName}
@@ -39,14 +39,14 @@ async (conn, mek, m, { from }) => {
 ┃◈┃• *Version*: 1.0.0
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
-> ©KAVIYA MD`, // Display the owner's details
+> ©𝗠𝐚𝐥𝐢𝐲𝐚 MD`, // Display the owner's details
             contextInfo: {
                 mentionedJid: [`${ownerNumber.replace('+', '')}@s.whatsapp.net`], 
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363382023564830@newsletter',
-                    newsletterName: 'KAVIYA 🔥',
+                    newsletterName: '𝗠𝐚𝐥𝐢𝐲𝐚 MD 🔥',
                     serverMessageId: 143
                 }            
             }
