@@ -9,7 +9,7 @@ SESSION_ID: process.env.SESSION_ID || "dnFzTKKI#JSymPENLHUx1XANe0Zw6f7b4Ijr7Kl0d
 // add your Session Id 
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot
-BOT_NAME: process.env.BOT_NAME || "KAVIYA MD",
+BOT_NAME: process.env.BOT_NAME || "𝗠𝐚𝐥𝐢𝐲𝐚 MD",
 // add bot namw here for menu
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
