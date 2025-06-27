@@ -19,13 +19,13 @@ DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
 OWNER_NUMBER: process.env.OWNER_NUMBER || "+94785228499",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "KAVIYA MD",
+OWNER_NAME: process.env.OWNER_NAME || "𝗠𝐚𝐥𝐢𝐲𝐚 MD",
 // add bot owner name
-DESCRIPTION: process.env.DESCRIPTION || "*© KAVIYA MD*",
+DESCRIPTION: process.env.DESCRIPTION || "*© 𝗠𝐚𝐥𝐢𝐲𝐚 MD*",
 // add bot owner name    
 ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/p9hyal.jpg",
 // add img for alive msg
-LIVE_MSG: process.env.LIVE_MSG || "KAVIYA MD IS ACTIVE AND ALIVE\n\n\nKEEP USING KAVIYA MD FROM DILA TECH INC⚡",
+LIVE_MSG: process.env.LIVE_MSG || "𝗠𝐚𝐥𝐢𝐲𝐚 MD IS ACTIVE AND ALIVE\n\n\nKEEP USING KAVIYA MD FROM DILA TECH INC⚡",
 // add alive msg here 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
 // Turn true or false for automatic read msgs
@@ -37,7 +37,7 @@ AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 // make true or false status auto seen
 AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "true",
 // make true if you want auto reply on status 
-AUTO_STATUS__MSG: process.env.AUTO_STATUS__MSG || "*🎉👀 Seen by KAVIYA MD 🚀🔥*",
+AUTO_STATUS__MSG: process.env.AUTO_STATUS__MSG || "*🎉👀 Seen by 𝗠𝐚𝐥𝐢𝐲𝐚 MD 🚀🔥*",
 // set the auto reply massage on status reply    
 MODE: process.env.MODE || "public",
 // make bot public-private-inbox-group 
