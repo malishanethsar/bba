@@ -29,7 +29,7 @@ LIVE_MSG: process.env.LIVE_MSG || "𝗠𝐚𝐥𝐢𝐲𝐚 MD IS ACTIVE AND ALI
 // add alive msg here 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
 // Turn true or false for automatic read msgs
-AUTO_REACT: process.env.AUTO_REACT || "true",
+AUTO_REACT: process.env.AUTO_REACT || "false",
 // make this true or false for auto react on all msgs
 ANTI_BAD: process.env.ANTI_BAD || "false",
 // false or true for anti bad words
