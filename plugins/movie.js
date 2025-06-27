@@ -25,7 +25,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         }
 
         const movieInfo = `
-🎬 *𝙱.𝙼.𝙱-𝚇𝙼𝙳 Movie Information* 🎬
+🎬 *𝗠𝐚𝐥𝐢𝐲𝐚 MDMovie Information* 🎬
 
 🎥 *Title:* ${data.Title}
 📅 *Year:* ${data.Year}
