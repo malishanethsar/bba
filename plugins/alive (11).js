@@ -32,7 +32,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363390776450292@g.us',
+                    newsletterJid: '120363419806356411@newsletter',
                     newsletterName: '𝙸𝚁𝙲  𝗠𝐚𝐥𝐢𝐲𝐚  md🔥',
                     serverMessageId: 143
                 }
